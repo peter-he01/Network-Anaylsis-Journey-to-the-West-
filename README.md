@@ -1,7 +1,14 @@
 # Network-Anaylsis-Journey-to-the-West-
-Project on analysis of character networks of the novel "Journey to the West"
 
-# Complete Final Project
+Project on analysis of character and event networks for the novel "Journey to the West"
+
+## Final Project Report
 
 
-# Text Files 
+## Text Files 
+
+
+## Python Code
+
+
+## Gephi Files
