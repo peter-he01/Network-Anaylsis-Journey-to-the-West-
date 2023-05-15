@@ -6,17 +6,21 @@ Project on analysis of character and event networks for the novel "Journey to th
 
 [Final Report](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Final%20Project%20Analysis.md)
 
-2. [Amartya Sen--development](https://peter-he01.github.io/DATA-150-Spring-2021/fastround.html)
-
-3. [Kitchin and Anderson](https://peter-he01.github.io/DATA-150-Spring-2021/Kitchin.html)
-
-4. [Development and Complexity--Barder](https://peter-he01.github.io/DATA-150-Spring-2021/Barder.html)
-
-5. [Assignment 3 intro draft](https://peter-he01.github.io/DATA-150-Spring-2021/intro3.html)
-
-
 ## Text Files 
 
+1. [Journey to the West](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/west_text.txt)
+
+2. [Character List](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West/blob/main/characterName.txt)
+
+3. [Place List](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/char_place.txt)
+
+4. [Character Nodes](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/westnodes.tsv)
+
+5. [Character & Place Nodes](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/westnodes_place.tsv)
+
+6. [Character Edge](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/westedges.tsv)
+
+7. [Characte r& Place Edge](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/westedges_place.tsv)
 
 ## Python Code
 
