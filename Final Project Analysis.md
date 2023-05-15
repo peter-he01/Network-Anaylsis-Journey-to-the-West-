@@ -38,6 +38,8 @@ By conducting separate analyses for character interactions and character-event i
 
 ### Character to Character interaction
 
+[Character to Character interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20135901.png)
+
 Focusing on the first network on character-to-character interactions. Through analysis of the centrality test. It was identified that Tang Seng (Tang Sancang) is the most centralized character. With 42 distinct connections, Tang Seng has the highest number of direct relationships with other characters in the story. This suggests that Tang Seng interacts with a wide range of individuals, making him a crucial figure in the narrative. These connections could represent alliances, conflicts, or various types of interactions that contribute to the overall development of the story. Tang Seng also had the highest degree of betweenness centrality with a count of 52. This indicates that Tang Seng acts as a key intermediary between other characters in the network. In the context of "Journey to the West," this implies that Tang Seng often serves as a mediator or facilitator of interactions between different characters. 
 
 On the other hand, one of the most iconic characters Song Wukong has the second highest number of connections with 30 distinct connections (degree of centrality) and a degree of betweenness of 40. This indicates that Wukong also engages with a substantial portion of the character network. The interesting difference is that Wukong has a higher degree of betweenness compared to centrality. His presence on many of the shortest paths between other characters indicates that he plays a pivotal role in facilitating communication, interactions, and the flow of information among different individuals. In the context of the plot of the story, this indicates that he may be instrumental in resolving conflicts, negotiating alliances, or guiding the group through challenges.
@@ -47,6 +49,8 @@ It is surprising that the other disciples, namely Zhu Bajie (the pig), Sha Wujin
 It is also interesting to note that most of antagonists in the story primarily interact with Tang Seng and have limited interactions with each other, which further emphasizes his pivotal role as the central character. The limited connections among the antagonists suggest their role as individual hurdles for Tang Seng rather than forming their own interactive cluster or group. This narrative choice maintains a cohesive and linear plot with few deviations from the overall quest.
 
 ### Character to event interaction 
+
+[Character to event interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20181406.png)
 
 The statistical analysis and mapping of the character and event interaction network in "Journey to the West" reveal intriguing findings that complement the previous examination of character centrality. Alongside the characters, certain events and locations within the story exhibit significant influence on the overall narrative.
 
