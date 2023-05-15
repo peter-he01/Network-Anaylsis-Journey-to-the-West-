@@ -24,5 +24,7 @@ Project on analysis of character and event networks for the novel "Journey to th
 
 ## Python Code
 
+[Character Network](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/network1.py)
 
-## Gephi Files
+[Character & Place Network](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/network_char_place.py)
+
