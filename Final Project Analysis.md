@@ -38,7 +38,7 @@ By conducting separate analyses for character interactions and character-event i
 
 ### Character to Character interaction
 
-[Character to Character interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20135901.png)
+![Character to Character interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20135901.png)
 
 Focusing on the first network on character-to-character interactions. Through analysis of the centrality test. It was identified that Tang Seng (Tang Sancang) is the most centralized character. With 42 distinct connections, Tang Seng has the highest number of direct relationships with other characters in the story. This suggests that Tang Seng interacts with a wide range of individuals, making him a crucial figure in the narrative. These connections could represent alliances, conflicts, or various types of interactions that contribute to the overall development of the story. Tang Seng also had the highest degree of betweenness centrality with a count of 52. This indicates that Tang Seng acts as a key intermediary between other characters in the network. In the context of "Journey to the West," this implies that Tang Seng often serves as a mediator or facilitator of interactions between different characters. 
 
@@ -50,7 +50,7 @@ It is also interesting to note that most of antagonists in the story primarily i
 
 ### Character to event interaction 
 
-[Character to event interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20181406.png)
+![Character to event interaction](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Screenshot%202023-05-14%20181406.png)
 
 The statistical analysis and mapping of the character and event interaction network in "Journey to the West" reveal intriguing findings that complement the previous examination of character centrality. Alongside the characters, certain events and locations within the story exhibit significant influence on the overall narrative.
 
