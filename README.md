@@ -4,7 +4,7 @@ Project on analysis of character and event networks for the novel "Journey to th
 
 ## Final Project Report
 
-[Final Report](https://peter-he01.github.io/Network-Anaylsis-Journey-to-the-West-/Final-Project-Analysis.html)
+[Final Report](https://github.com/peter-he01/Network-Anaylsis-Journey-to-the-West-/blob/main/Final%20Project%20Analysis.md)
 
 2. [Amartya Sen--development](https://peter-he01.github.io/DATA-150-Spring-2021/fastround.html)
 
