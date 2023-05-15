@@ -1,5 +1,5 @@
 # Network visualization: Journey to the West
-### Word Count: 2512
+#### Word Count: 2512
 ## Introduction 
 
 For many centuries, readers have been captivated by the timeless Chinese literature, "Journey to the West". This novel takes its readers on an unforgettable journey with its animated characters and profound symbolism. Though there is uncertainty surrounding the authorship of this work, Wu Cheng’en is suspected to be responsible for it as it was published during China’s Ming Dynasty in the 16th century. Alongside other literature such as "Romance of Three Kingdoms," "Dream of Red Chamber," and "Water Margin", this piece has established itself as one of China's Four Great Classical Novels. 
@@ -70,7 +70,9 @@ Despite these limitations, the project serves as a valuable exploration of the c
 ## References APA 
 
 Jones, P. (2020). A Social Network Analysis Approach to Examining Gendered Character Positions in Popular Film Narratives‬. (n.d.). https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-GMiAW8AAAAJ&citation_for_view=-GMiAW8AAAAJ:u-x6o8ySG0sC
+
 Labatut, V., & Bost, X. (2019). Extraction and Analysis of Fictional Character Networks. ACM Computing Surveys, 52(5), 1–40. https://doi.org/10.1145/3344548
+
 Sayama, H. (2015). Introduction to the modeling and analysis of complex system. Binghamton University, SUNY. https://anvari.net/5_SA/Complex%20Systems/Modeling%20Complex%20Systems.pdf
 
 
